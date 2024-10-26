@@ -1,7 +1,9 @@
 <h1>Welcome to Odelyzid`s GitHub Profile</h1>
-<p1><i>Not only makes music, also creates coffee-infused codes..</i></p1>
+<p1><i>Not only makes music, also creates coffee and phenylethyamin-infused codes..</i></p1>
+
+<pre>Reality is an Illusion, everything is made up somehow... or at least scripted 😏</pre>
 <br>
-<h2 style="color: orange;">Personal Projects</h2>
+<h2 style="color: orange;">🔬 Personal Projects ⚛️</h2>
 <ul>
 <li>DreamWorld98 / Neo-Drams + xServ</li>
 <pre>
