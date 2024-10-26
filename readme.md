@@ -1,15 +1,46 @@
-<h1>My Skills and Languages:</h1>
-<hr>
-
+<h1>Welcome to Odelyzid`s GitHub Profile</h1>
+<p1><i>Not only makes music, also creates coffee-infused codes..</i></p1>
 <br>
-[![Symfony](https://img.shields.io/badge/Download-Symfony-000000?logo=symfony&logoColor=white)](https://symfony.com/download)
-[![TypeScript](https://img.shields.io/badge/Download-TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/download)
-[![VueJS](https://img.shields.io/badge/Download-VueJS-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Assembly](https://img.shields.io/badge/Download-Assembly-525252?logo=assemblyscript&logoColor=white)](https://webassembly.org/getting-started/developers-guide/)
-[![C / C++](https://img.shields.io/badge/Download-C%20/%20C++-00599C?logo=cplusplus&logoColor=white)](https://www.gnu.org/software/gcc/)
-[![C#](https://img.shields.io/badge/Download-C%23-239120?logo=csharp&logoColor=white)](https://dotnet.microsoft.com/download)
-[![MySQL](https://img.shields.io/badge/Download-MySQL-4479A1?logo=mysql&logoColor=white)](https://dev.mysql.com/downloads/)
-[![MariaDB](https://img.shields.io/badge/Download-MariaDB-003545?logo=mariadb&logoColor=white)](https://mariadb.org/download/)
-[![PHP](https://img.shields.io/badge/Download-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/downloads)
-[![JavaScript](https://img.shields.io/badge/Download-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Docker](https://img.shields.io/badge/Download-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/get-started)
+<h2 style="color: orange;">Personal Projects</h2>
+<ul>
+<li>DreamWorld98 / Neo-Drams + xServ</li>
+<pre>
+  90s Multiplayer RPG FPS - C++ with IrrLicht/Coppercube <br>
+  WebService / Online-Client-Server Multiplayer
+</pre>
+<li>HellOs</li>
+<pre>Recreational x86_64 Operating System in C and Assembly.</pre>
+<li>Glover N64/PC Reverse Engineering / Modding</li>
+</ul>
+
+<hr>
+<a href="https://symfony.com/download">
+    <img src="https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony Download Badge">
+</a>
+<a href="https://www.typescriptlang.org/download">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Download Badge">
+</a>
+<a href="https://vuejs.org/">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js Download Badge">
+</a>
+<a href="https://webassembly.org/getting-started/developers-guide/">
+    <img src="https://img.shields.io/badge/Assembly-gray?style=for-the-badge&logo=webassembly&logoColor=white" alt="Assembly Download Badge">
+</a>
+<a href="https://www.gnu.org/software/gcc/">
+    <img src="https://img.shields.io/badge/C%20/%20C++-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C / C++ Download Badge">
+</a>
+<a href="https://dotnet.microsoft.com/download">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Download Badge">
+</a>
+<a href="https://dev.mysql.com/downloads/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Download Badge">
+</a>
+<a href="https://mariadb.org/download/">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB Download Badge">
+</a>
+<a href="https://www.php.net/downloads">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Download Badge">
+</a>
+<a href="https://www.docker.com/get-started">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Download Badge">
+</a>
