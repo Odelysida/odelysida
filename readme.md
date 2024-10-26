@@ -13,6 +13,7 @@
 <li>HellOs</li>
 <pre>Recreational x86_64 Operating System in C and Assembly.</pre>
 <li>Glover N64/PC Reverse Engineering / Modding</li>
+<li>90s FPS Modding (Doom, Hexen, Quake, Unreal, etc..)</li>
 </ul>
 
 <hr>
