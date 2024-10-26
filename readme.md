@@ -19,17 +19,17 @@
 <a href="https://symfony.com/download">
     <img src="https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony Download Badge">
 </a>
-<a href="https://www.typescriptlang.org/download">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Download Badge">
-</a>
 <a href="https://vuejs.org/">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js Download Badge">
 </a>
-<a href="https://webassembly.org/getting-started/developers-guide/">
-    <img src="https://img.shields.io/badge/Assembly-gray?style=for-the-badge&logo=webassembly&logoColor=white" alt="Assembly Download Badge">
-</a>
 <a href="https://www.gnu.org/software/gcc/">
     <img src="https://img.shields.io/badge/C%20/%20C++-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C / C++ Download Badge">
+</a>
+<a href="https://www.typescriptlang.org/download">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Download Badge">
+</a>
+<a href="https://webassembly.org/getting-started/developers-guide/">
+    <img src="https://img.shields.io/badge/Assembly-gray?style=for-the-badge&logo=webassembly&logoColor=white" alt="Assembly Download Badge">
 </a>
 <a href="https://dotnet.microsoft.com/download">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Download Badge">
@@ -45,4 +45,22 @@
 </a>
 <a href="https://www.docker.com/get-started">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Download Badge">
+</a>
+<a href="https://www.doctrine-project.org/">
+    <img src="https://img.shields.io/badge/Doctrine-4479A1?style=for-the-badge&logo=doctrine&logoColor=white" alt="Doctrine Download Badge">
+</a>
+<a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Download Badge">
+</a>
+<a href="https://www.shopware.com/">
+    <img src="https://img.shields.io/badge/Shopware-189EFF?style=for-the-badge&logo=shopware&logoColor=white" alt="Shopware Download Badge">
+</a>
+<a href="https://www.kernel.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Download Badge">
+</a>
+<a href="https://www.pouet.net/">
+    <img src="https://img.shields.io/badge/Pouet-2A2A2A?style=for-the-badge&logo=probot&logoColor=white" alt="Pouet.org Link Badge">
+</a>
+<a href="https://amp.dascene.net/">
+    <img src="https://img.shields.io/badge/AmigaAMP-ff1a00?style=for-the-badge&logo=amigaos&logoColor=white" alt="AmigaAMP Download Badge">
 </a>
