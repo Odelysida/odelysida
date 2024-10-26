@@ -1,5 +1,5 @@
 <h1>Welcome to Odelyzid`s GitHub Profile</h1>
-<p1><i>Not only makes music, also creates coffee and phenylethyamin-infused codes..</i></p1>
+<p1><i>Not only makes music, also creates coffee and narkotik-infused codes..</i></p1>
 
 <pre>Reality is an Illusion, everything is made up somehow... or at least scripted 😏</pre>
 <br>
