@@ -17,9 +17,9 @@
 
 
 <hr>
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={odelysida}&theme={zenburn}
-http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={odelysida}&theme={zenburn}
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odelysida&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=odelysida&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=odelysida&theme=zenburn&utcOffset=8)
 
 <hr>
 <a href="https://symfony.com/download">
