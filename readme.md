@@ -1,7 +1,5 @@
 <h1>Welcome to Odelyzid`s GitHub Profile</h1>
 <p1><i>Not only makes music, also creates coffee and narkotik-infused codes..</i></p1>
-
-<pre>Reality is an Illusion, everything is made up somehow... or at least scripted 😏</pre>
 <br>
 <h2 style="color: orange;">🔬 Personal Projects ⚛️</h2>
 <ul>
@@ -16,6 +14,12 @@
 <li>90s FPS Modding (Doom, Hexen, Quake, Unreal, etc..)</li>
 <li>Containerized Web Development & Vue Projects </li>
 </ul>
+
+
+<hr>
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={odelysida}&theme={zenburn}
+http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={odelysida}&theme={zenburn}
+
 
 <hr>
 <a href="https://symfony.com/download">
